@@ -4,7 +4,7 @@ Welcome to the **Car Dealership Sales Dashboard**, a cutting-edge Tableau visual
 
 ## Interactive Dashboard
 
-Hosted on GitHub Pages, this dashboard offers an immersive, interactive experience. Access it [here](https://manuelean.github.io/RFM-Analysis-of-Car-Dealership/) to engage with the data firsthand.
+Access it [here](https://manuelean.github.io/RFM-Analysis-of-Car-Dealership/) to engage with the data firsthand.
 
 ## About
 
